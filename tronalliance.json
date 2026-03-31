@@ -1,10 +1,10 @@
 {
 	"name": "Tron Alliance List",
 	"logoURI": "https://list.tronalliance.cc/fav.ico",
-	"timestamp": 1764041638000,
+	"timestamp": 1774975015000,
 	"version": {
 		"major": 1,
-		"minor": 16,
+		"minor": 17,
 		"patch": 0
 	},
 	"tokens": [
@@ -136,6 +136,14 @@
 			"chainId": 1,
 			"decimals": 18,
 			"logoURI": "https://static.tronscan.org/production/upload/logo/new/TPFqcBAaaUMCSVRCqPaQ9QnzKhmuoLR6Rc.png"
+		},
+		{
+			"symbol": "U",
+			"name": "United Stables",
+			"address": "TFNirp6PbqYE1ZTtWuCMUKJWLNZkoCoeFJ",
+			"chainId": 1,
+			"decimals": 18,
+			"logoURI": "https://static.tronscan.org/production/upload/logo/new/TFNirp6PbqYE1ZTtWuCMUKJWLNZkoCoeFJ.png"
 		},
 		{
 			"symbol": "BTC",
